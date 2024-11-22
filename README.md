@@ -1,5 +1,21 @@
 # 💫 About Me:
-🎯 I’m currently working on<br>Building WordPress Ecommerce websites, creating engaging Instagram carousel content for eCommerce brands, and exploring scalable Machine Learning (ML) solutions.<br><br>🤝 I’m looking to collaborate on<br>High-ticket eCommerce projects, branding and SEO strategies for health, wellness, and skincare businesses, or innovative AI and ML solutions, especially involving Django or React Native.<br><br>👐 I’m looking for help with<br>Improving Instagram engagement strategies, securing high-ticket clients within this month, and refining my skills in advanced Machine Learning and AI implementations.<br><br>🌱 I’m currently learning<br>Advanced LeetCode problem-solving with Python, enhancing storytelling techniques for websites and social media, and diving deeper into Django, React Native, and AI/ML applications.<br><br>💬 Ask me about<br>Building WordPress Ecommerce websites, branding for eCommerce, strategies to scale online businesses, or leveraging AI for real-world applications.<br><br>⚡ Fun fact<br>I’m blending my love for technology and business by working on an AI agency idea before graduating, solving LeetCode problems for fun, and experimenting with React Native to build cool mobile solutions!
+🎯 I’m currently working on
+Exploring scalable Machine Learning (ML) solutions, solving advanced LeetCode problems, and experimenting with Django and React Native for innovative projects.
+
+🤝 I’m looking to collaborate on
+AI and ML solutions for startups, projects involving Django or React Native, and mobile app development using cutting-edge technologies.
+
+👐 I’m looking for help with
+Refining my skills in advanced Machine Learning and AI implementations and building impactful projects with Django and React Native.
+
+🌱 I’m currently learning
+Advanced LeetCode problem-solving with Python, deepening my understanding of Django and React Native, and exploring AI/ML applications for real-world problems.
+
+💬 Ask me about
+Leveraging AI for innovative applications, implementing Machine Learning models, or strategies for effective mobile and web development using Django and React Native.
+
+⚡ Fun fact
+I’m working on launching an AI agency before graduating, balancing it with solving LeetCode problems for fun, and exploring creative ways to combine AI with app development!
 
 
 ## 🌐 Socials:
