@@ -9,7 +9,7 @@ AI and ML solutions for startups, projects involving Django or React Native, and
 Refining my skills in advanced Machine Learning and AI implementations and building impactful projects with Django and React Native.
 
 🌱 I’m currently learning
-Advanced LeetCode problem-solving with Python, deepening my understanding of Django and React Native, and exploring AI/ML applications for real-world problems.
+Medium LeetCode problem-solving with Python, deepening my understanding of Django and React Native, and exploring AI/ML applications for real-world problems.
 
 💬 Ask me about
 Leveraging AI for innovative applications, implementing Machine Learning models, or strategies for effective mobile and web development using Django and React Native.
