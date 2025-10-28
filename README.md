@@ -1,21 +1,23 @@
-# 💫 About Me:
-🎯 I’m currently working on
-Exploring scalable Machine Learning (ML) solutions, solving advanced LeetCode problems, and experimenting with Django and React Native for innovative projects.
+# 💫 About Me
 
-🤝 I’m looking to collaborate on
-AI and ML solutions for startups, projects involving Django or React Native, and mobile app development using cutting-edge technologies.
+🎯 **Currently Working On**  
+Building scalable web systems with **Django**, **Bootstrap**, and **REST APIs** — turning ideas into functional, fast, and well-structured applications. Alongside client projects in **WordPress**, I’m focused on refining how products feel and perform at a technical level.
 
-👐 I’m looking for help with
-Refining my skills in advanced Machine Learning and AI implementations and building impactful projects with Django and React Native.
+🤝 **Looking to Collaborate On**  
+Projects that involve deep problem-solving, system design, and backend architecture — especially with student teams or freelance partners working on meaningful digital solutions.
 
-🌱 I’m currently learning
-Medium LeetCode problem-solving with Python, deepening my understanding of Django and React Native, and exploring AI/ML applications for real-world problems.
+🌱 **Currently Learning**  
+Mastering **Django backend development**, designing clean and efficient **REST APIs**, improving **data structure** skills, and optimizing how I work as a freelancer and engineer.
 
-💬 Ask me about
-Leveraging AI for innovative applications, implementing Machine Learning models, or strategies for effective mobile and web development using Django and React Native.
+💬 **Ask Me About**  
+Structuring reliable web systems, improving backend performance, integrating APIs seamlessly, or balancing client work with technical growth.
 
-⚡ Fun fact
-I’m working on launching an AI agency before graduating, balancing it with solving LeetCode problems for fun, and exploring creative ways to combine AI with app development!
+⚡ **Fun Fact**  
+LeetCode is my version of mental training — I solve problems for clarity, not competition. Outside of that, I’m working toward becoming the kind of developer who turns complex ideas into clean, functional realities.
+
+📫 **Find Me On**  
+GitHub → [developersharf](https://github.com/developersharf)
+
 
 
 ## 🌐 Socials:
